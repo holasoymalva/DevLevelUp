@@ -1,0 +1,5 @@
+{
+  "name": "DevLevelUp",
+  "description": "A gamified application to track and improve your coding skills and developer performance. Log activities, earn XP, level up, and unlock achievements to become a better developer.",
+  "requestFramePermissions": []
+}
